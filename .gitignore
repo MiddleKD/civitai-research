@@ -10,4 +10,4 @@ wheels/
 .venv
 .env
 .vscode
-datas
+*.json
